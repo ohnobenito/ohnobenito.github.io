@@ -1,29 +1,31 @@
-# React Nice Resume     
-
-### DEMO is [here](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
-
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img.jpg?raw=true)
-
-# About [`particles-bg`](https://github.com/lindelof/particles-bg) library
-#### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
-
-![img](https://github.com/lindelof/particles-bg/raw/master/image/03.jpg?raw=true)
+# **Benito Gonzalez Portfolio**
 
 ## Description
-This project forks from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template), I made some modifications and adjustments, thanks to the [author](https://github.com/tbakerx).
+Professional portfolio for Benito Gonzalez
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
+**Links to [GitHub Repo](https://github.com/ohnobenito/react-portfilio) and [Deployed Page](https://ohnobenito.github.io/react-portfolio/)**
 
-## Run Project
-### 1. Clone the project
+![Badge:](https://img.shields.io/badge/License-mit-brightgreen)
 
-### 2. Run the project
-```shell
-npm i
-npm start
-```
+![**Screenshot of Application:**](./public/images/port.png)
 
-### 3. BUild
-```shell
-npm run build
-```
+
+## Table of Contents
+[1. Description](#Description)<br>
+[2. License](License)<br>
+[3. Credits](#Credits)<br>
+[5. Questions](#Questions)<br>
+
+
+## License
+This application is covered by the MIT license. Full documentation can be found [here](https://choosealicense.com/licenses/mit).
+
+## Credits
+Modified Template Design by [nordicgiant2](https://github.com/ohnobenito/react-portfilio), originally created by [tbakerx](https://github.com/tbakerx/react-resume-template).
+
+Heading Background photo by [Thomas Verburggen](https://unsplash.com/photos/5A06OWU6Wuc).
+
+
+## Questions
+Follow me on GitHub here: [Github](https://www.github.com/Ohnobenito)<br>
+Have additional questions? Contact Benito Gonzalez by email: ohnobenito@gmail.com
