@@ -21,7 +21,7 @@ class Portfolio extends Component {
                 </div>
               </a>
             </div>
-            <div><p> {projects.title}: <a href={projects.url}>Deployed</a>||<a href={projects.deployed}>Github</a></p></div>
+            <div><p> {projects.title}: <a href={projects.url} id="portlink">Deployed</a>||<a href={projects.deployed} id="portlink">Github</a></p></div>
           </div>
         )
       })
