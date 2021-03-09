@@ -14,7 +14,7 @@ Professional portfolio for Benito Gonzalez
 [1. Description](#Description)<br>
 [2. License](License)<br>
 [3. Credits](#Credits)<br>
-[5. Questions](#Questions)<br>
+[4. Questions](#Questions)<br>
 
 
 ## License
