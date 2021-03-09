@@ -21,7 +21,7 @@ Professional portfolio for Benito Gonzalez
 This application is covered by the MIT license. Full documentation can be found [here](https://choosealicense.com/licenses/mit).
 
 ## Credits
-Modified Template Design by [nordicgiant2](https://github.com/ohnobenito/react-portfilio), originally created by [tbakerx](https://github.com/tbakerx/react-resume-template).
+Modified Template Design by [nordicgiant2](https://github.com/nordicgiant2/react-nice-resume), originally created by [tbakerx](https://github.com/tbakerx/react-resume-template).
 
 Heading Background photo by [Thomas Verburggen](https://unsplash.com/photos/5A06OWU6Wuc).
 
