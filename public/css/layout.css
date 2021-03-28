@@ -509,7 +509,7 @@ ul#nav li.current a { color: #fe6928; }
    font: 12px/18px 'opensans-light', sans-serif;
    color: #fff;
    ;
-   margin-bottom: 0;
+   margin-bottom: 0; 
 }
 
 /* on hover */
