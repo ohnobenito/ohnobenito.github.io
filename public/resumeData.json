@@ -3,9 +3,9 @@
     "name":"Benito Gonzalez",
     "description":"Web Developer. Fashion Merchandiser. Dog Dad.",
     "image":"contact.jpg",
-    "bio":"Full Stack Web Developer with a background in retail management and fashion merchandising. Efficient at creating uniquely styled web applications with a clean user interface. Brings creativity and attention to detail to all projects in-store and on the web.",
+    "bio":"Fresh out of bootcamp, this Full Stack Web Developer also has a background in retail management and fashion merchandising. Efficient at creating uniquely styled web applications with a clean user interface. Brings creativity and attention to detail to all projects in-store and on the web.",
     "contactmessage":"Feel free to drop me a message below!",
-    "email": "ohnobenito@gmail.com",
+    "email": "benitomitchellgonzalez@gmail.com",
     "phone": "218-213-4401",
     "github":"https://github.com/ohnobenito",
     "address":{
@@ -44,13 +44,13 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here are a few things I know how to do:",
+    "skillmessage":"Here are some of the many technologies I've used in recent applications:",
     "education":[
       {
         "school":"University of Minnesota",
         "degree":"Full Stack Web Development",
         "graduated":"March 2021",
-        "description":"A Full Stack Development bootcamp that covered React, JS, Node, MySql, jQuery, HTML, and more."
+        "description":"A Full Stack Web Development bootcamp that covered React, JS, Node, MySql, jQuery, Express, MongoDB, HTML, and more."
       }
     ],
     "work":[
@@ -64,7 +64,7 @@
     "skills":[
       {
         "name":"ReactJs",
-        "level":"60%"
+        "level":"65%"
       },
       {
         "name":"HTML",
@@ -85,6 +85,10 @@
       {
         "name":"jQuery",
         "level":"55%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"45%"
       }
     ]
   },
@@ -107,12 +111,12 @@
         "skills":"JS, API, HTML, CSS"
       },
       {
-        "title":"Weather Dashboard",
-        "category":"What's the weather like in Deleware? Find out with this easy-to-use application!",
-        "image":"weather.png",
-        "url":"https://ohnobenito.github.io/weatherdash",
-        "deployed":"https://github.com/ohnobenito/weatherdash",
-        "skills":"JS, HTML, CSS, API, AJAX"
+        "title":"Match't",
+        "category":"Job search application that uses Tinder like technology",
+        "image":"matchtss.gif",
+        "url":"https://usematcht.herokuapp.com",
+        "deployed":"https://github.com/ohnobenito/matcht3",
+        "skills":"MongoDB, Express, React, Node, Firebase"
       },
       {
         "title":"Daily Scheduler",
@@ -123,20 +127,20 @@
         "skills":"HTML, JS, CSS, localstorage"
       },
       {
+        "title":"Weather Dashboard",
+        "category":"What's the weather like in Deleware? Find out with this easy-to-use application!",
+        "image":"weather.png",
+        "url":"https://ohnobenito.github.io/weatherdash",
+        "deployed":"https://github.com/ohnobenito/weatherdash",
+        "skills":"JS, HTML, CSS, API, AJAX"
+      },
+      {
         "title":"Eat Da Burger App",
         "category":"What's for lunch? You decide!",
-        "image":"eatburger.gif",
+        "image":"burger.png",
         "url":"https://intense-badlands-60640.herokuapp.com/",
         "deployed":"https://github.com/ohnobenito/burger",
         "skills":"JS, Handlebars, CSS "
-      },
-      {
-        "title":"Employee Directory",
-        "category":"Practice application for React that sorts and filters employee data",
-        "image":"ss1.png",
-        "url":"ohnobenito.github.io/employee-directory/",
-        "deployed":"https://github.com/ohnobenito/employee-directory",
-        "skills":"React"
       }
     ]
   }
